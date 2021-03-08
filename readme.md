@@ -1,4 +1,4 @@
-#Currency converter
+Currency converter
 
 This application calculates PLN to GBP and GBP to PLN.
 

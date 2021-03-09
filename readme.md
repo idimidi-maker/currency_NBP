@@ -13,4 +13,4 @@ NBP.java file (located in src folder) contains the whole code. Please open NBP.j
 What's more, make sure that libraries are implemented to your environment (your can download the latest versions from https://mvnrepository.com/).
 
 
-Application has been created using Java language, version 15.
+Application has been created using Java language.
